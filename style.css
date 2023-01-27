@@ -1,0 +1,17 @@
+input {
+    width: 300px;
+    height: 40px;
+}
+
+button {
+    height: 40px;
+    background-color: aquamarine;
+    margin: 20px;
+    padding: 10px;
+    border: 1px solid black;
+}
+
+
+.titolo {
+    color: rgb(46, 163, 124);
+}
